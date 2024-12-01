@@ -12,7 +12,7 @@ Ce dépôt contient deux projets :
 
 ## Batch
 
-- Le batch lit un fichier d'entrée, applique les transformations sur chaque ligne, puis écrit les résultats dans un fichier de sortie (voir [README Batch](./batch/README.md) pour plus de détails).
+- Le batch lit un fichier d'entrée, applique les transformations sur chaque ligne, puis écrit les résultats dans un fichier de sortie (voir [README Batch](./Batch/README.md) pour plus de détails).
 - Assurez-vous que le projet REST est en cours d'exécution sur http://localhost:8080.
 
 ### Auteur
