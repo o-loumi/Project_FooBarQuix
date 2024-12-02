@@ -7,7 +7,7 @@ Ce dépôt contient deux projets :
 
 ## API Web
 
-- L'API permet de transformer un nombre selon des règles de divisibilité et de présence de chiffres (voir [README API](./Kata_FooBarQuix/OOBARQUIX/README.md) pour plus de détails).
+- L'API permet de transformer un nombre selon des règles de divisibilité et de présence de chiffres (voir [README API](./Kata_FooBarQuix/FOOBARQUIX/README.md) pour plus de détails).
 - La documentation de l'API est disponible sur [http://localhost:8080/swagger-ui.html](http://localhost:8080/swagger-ui.html).
 
 ## Batch
